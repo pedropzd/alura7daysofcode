@@ -1,0 +1,33 @@
+.numeros {
+    padding: 0 4em 10em 6em;
+    text-align: center;
+}
+
+.numeros-lista {
+    display: flex;
+    justify-content: center;
+}
+
+.numeros-lista-item {
+    padding-right: 2rem;
+    width: 280px;
+    height: 192px;
+}
+
+.lista-item-titulo {
+    font-size: 60px;
+    font-weight: 600;
+    color: var(--cor-vermelha);
+    padding-bottom: 1rem;
+}
+
+.lista-item-subtitulo {
+    font-size: 18px;
+    font-weight: 500;
+    color: var(--cor-azul-escuro);
+    padding-bottom: 0.5rem;
+}
+
+.lista-item-texto {
+    color: var(--azul-claro);
+}

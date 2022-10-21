@@ -1,0 +1,47 @@
+.opinioes {
+    padding: 0em 6em 6em 6em;
+    font-weight: 500;
+}
+
+.container {
+    background: rgba(196, 25, 25, 0.03);
+    border-radius: 16px;
+    text-align: center;
+    padding: 4em;
+}
+
+.opinioes-texto,
+.opinioes-titulo {
+    padding-bottom: 2rem;
+}
+
+.opinioes-texto {
+    font-weight: 600;
+    color: var(--cor-vermelha);
+    font-size: 14px;
+}
+
+.opinioes-titulo {
+    font-size: 36px;
+    color: var(--cor-azul-escuro);
+    text-align: center;
+}
+
+.opinioes-img {
+    padding-bottom: 1rem;
+}
+
+.img-nome,
+.img-texto {
+    padding-bottom: 0.5em;
+}
+
+.img-nome {
+    color: var(--cor-azul-escuro);
+}
+
+.img-texto {
+    font-size: 14px;
+    font-weight: 400;
+    color: var(--cor-azul-claro);
+}

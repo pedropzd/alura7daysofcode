@@ -1,0 +1,40 @@
+.rodape {
+    text-align: center;
+    padding: 6em 0;
+    background: var(--cor-gelo);
+}
+
+.rodape-titulo {
+    padding-bottom: 2rem;
+    font-weight: 600;
+    font-size: 36px;
+    color: var(--cor-azul-escuro);
+}
+
+.rodape-subtitulo {
+    font-size: 20px;
+    color: var(--cor-azul-claro);
+}
+
+.secao-botao {
+    padding: 3em 0;
+}
+
+.pesquisa {
+    width: 25%;
+    padding: 12px 14px 12px 16px;
+    border: 1px solid #D0D5DD;
+    box-shadow: 0px 1px 2px rgba(16, 24, 40, 0.05);
+    border-radius: 8px;
+    color: var(--cor-azul-claro);
+    margin-right: 1rem;
+}
+
+.pesquisa::placeholder {
+    color: var(--cor-azul-claro);
+}
+
+.rodape-texto {
+    color: var(--cor-azul-claro);
+    font-size: 14px;
+}

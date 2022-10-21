@@ -1,0 +1,26 @@
+.sobre {
+    text-align: center;
+    padding: 6em 20em;
+    font-weight: 600;
+}
+
+.sobre-texto,
+.sobre-titulo,
+.sobre-subtitulo {
+    padding-bottom: 2rem;
+}
+
+.sobre-texto {
+    color: var(--cor-vermelha);
+}
+
+.sobre-titulo {
+    font-size: 48px;
+    color: var(--cor-azul-escuro);
+}
+
+.sobre-subtitulo {
+    font-weight: 400;
+    font-size: 20px;
+    color: var(--cor-azul-claro);
+}

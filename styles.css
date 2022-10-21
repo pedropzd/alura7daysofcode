@@ -1,0 +1,21 @@
+@import url("../optimus-tech/styles/cabecalho.css");
+@import url("../optimus-tech/styles/sobre.css");
+@import url("../optimus-tech/styles/numeros.css");
+@import url("../optimus-tech/styles/vagas.css");
+@import url("../optimus-tech/styles/opinioes.css");
+@import url("../optimus-tech/styles/rodape.css");
+
+:root {
+    --cor-azul-escuro: #101828;
+    --cor-azul-claro: #667085;
+    --cor-vermelha: #8E2424;
+    --cor-gelo: #F9FAFB;
+    --fonte-principal: 'Inter';
+}
+
+body {
+    font-family: var(--fonte-principal);
+    font-size: 16px;
+    font-weight: 400;
+    text-decoration: none;
+}
