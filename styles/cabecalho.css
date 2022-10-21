@@ -34,6 +34,11 @@
     text-decoration: none;
 }
 
+.menu-lista-link:hover,
+.botao-entrar:hover {
+    color: #3a404e6c;
+}
+
 .botao-entrar {
     margin-right: 2em;
 }
@@ -46,4 +51,9 @@
     box-shadow: 0px 1px 2px rgba(16, 24, 40, 0.05);
     border-radius: 8px;
     color: #FFFFFF;
+}
+
+.botao-cadastrar:hover {
+    background:rgb(255, 255, 255);
+    color: var(--cor-vermelha);
 }
