@@ -1,9 +1,9 @@
-@import url("../styles/cabecalho.css");
-@import url("../styles/sobre.css");
-@import url("../styles/numeros.css");
-@import url("../styles/vagas.css");
-@import url("../styles/opinioes.css");
-@import url("../styles/rodape.css");
+@import url("styles/cabecalho.css");
+@import url("styles/sobre.css");
+@import url("styles/numeros.css");
+@import url("styles/vagas.css");
+@import url("styles/opinioes.css");
+@import url("styles/rodape.css");
 
 :root {
     --cor-azul-escuro: #101828;
